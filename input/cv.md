@@ -43,7 +43,7 @@ profile:
 1995–1999
 
 :   Secondary school \
-    [VIARÓ](www.viaro.es}) (private school)
+    [VIARÓ](http://viaro.es/) (private school)
 	
 :   *Special Award* (got my first year at university for free)
 
@@ -55,14 +55,14 @@ profile:
 11/2018--Present
 
 :   Software Engineer  \
-    [Auvik](auvik.com) \
+    [Auvik](https://auvik.com/) \
 
     Software development within the *Traffic Insights* project.
 
 09/2015--11/2018
 
 :   Full Stack Engineer \
-    [Talaia](talaia.io) \
+    [Talaia](https://talaia.io/) \
     
 :   I join Talaia (now [Auvik](https://www.auvik.com/media-room/press-releases/auvik-acquires-network-traffic-analytics-company-talaia/)) to help migrate from a coupled monolith to a (micro-)service/distributed architecture. Overall, I work on different fronts, playing a traversal role within the company, where I am a shareholder since late 2017.\
 
@@ -90,7 +90,7 @@ profile:
 08/2014--09/2015
 
 :   Project Engineer \
-    [Sipro Ingeniería](sipro.es) \
+    [Sipro Ingeniería](http://sipro.es/) \
 
 :   Execution of software-related tasks within Industrial Automation Projects: 
 
@@ -101,10 +101,10 @@ profile:
 09/2012--08/2014
 
 :   R&D Engineer / Marie Curie fellow \
-    [Pure Air Solutions](pureairsolutions.nl) \
+    [Pure Air Solutions](http://pureairsolutions.nl/) \
     Zwolle, The Netherlands \
 
-:   Experienced Researcher within the european IAPP project [Next Air Biotreat](nextairbiotreat.eu/),
+:   Experienced Researcher within the european IAPP project [Next Air Biotreat](http://nextairbiotreat.eu/),
     where I (technically) lead one of the work packages.\
 
 :   Tasks:
@@ -154,14 +154,14 @@ profile:
 06/2003--07/2004
 :	Junior Web Programmer \
     PHP, JavaScript, MySql (Half-day work) \
-	[Track SL](http://www.track.es/)
+	[Track SL](http://track.es/)
 
 
 # Further Education / Training (most recent only)
 
 2018
 :   Courses on SOLID, Hexagonal Architecture, ES/CQRS \
-    [CodelyTV](codely.tv) \
+    [CodelyTV](https://codely.tv/) \
 
 06/2018
 :   [deeplearning.ai specialization](https://www.deeplearning.ai/) \
@@ -212,18 +212,18 @@ These persons are familiar with my professional qualifications and my character:
 
 | **Josep Sanjuàs Cuxart**
 | Co-founder, CTO at [IoMob]()
-| Former Co-founder, CEO at [Talaia](talaia.io), acquired by Auvik
+| Former Co-founder, CEO at [Talaia](https://talaia.io), acquired by Auvik
 | Linkedin: <https://www.linkedin.com/in/jsanjuas/>
 
 | **Feliu Sampere**
-| R&D Engineer [AIMPLAS · Technological Institute of Plastics](https://www.aimplas.net/)
-| Former Process Engineer at [Pure Air Solutions](pureairsolutions.nl)
+| R&D Engineer at [AIMPLAS · Technological Institute of Plastics](https://www.aimplas.net/)
+| Former Process Engineer at [Pure Air Solutions](http://pureairsolutions.nl/)
 | Linkedin: <https://www.linkedin.com/in/feliu-sempere/>
 
 | **Cristian Martí**
-| Founder at [Methinks](methinks.es/)
-| Former CEO at [Coordina](www.coordina.com), now a TomTom company
-| Linkedin: <http://www.linkedin.com/in/cristianmarti>
+| Founder at [Methinks](http://methinks.es/)
+| Former CEO at [Coordina](http://coordina.com/), now a TomTom company
+| Linkedin: <http://www.linkedin.com/in/cristianmarti/>
 
 (from academia)
 
