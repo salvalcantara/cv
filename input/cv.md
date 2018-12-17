@@ -29,7 +29,7 @@ profile:
 :   Completed 210 credits towards the BSc in Mathematics \
     Universitat Autònoma de Barcelona
 
-:   Lacking 3 electives (18 credits) and the FYP (12 credits) \
+:   Lacking 3 electives (18 credits) and the FYP (12 credits)
 
 1999–2004
 
