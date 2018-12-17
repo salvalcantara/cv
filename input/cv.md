@@ -211,18 +211,18 @@ These persons are familiar with my professional qualifications and my character:
 (from industry)
 
 | **Josep Sanjuàs Cuxart**
-| Co-founder, CTO at [IoMob]()
-| Former Co-founder, CEO at [Talaia](https://talaia.io), acquired by Auvik
+| Co-founder, CTO at [IoMob](https://www.iomob.net/)
+| Former Co-founder, CEO at Talaia, acquired by Auvik
 | Linkedin: <https://www.linkedin.com/in/jsanjuas/>
 
 | **Feliu Sampere**
-| R&D Engineer at [AIMPLAS · Technological Institute of Plastics](https://www.aimplas.net/)
-| Former Process Engineer at [Pure Air Solutions](http://pureairsolutions.nl/)
+| R&D Engineer at AIMPLAS · Technological Institute of Plastics
+| Former Process Engineer at Pure Air Solutions
 | Linkedin: <https://www.linkedin.com/in/feliu-sempere/>
 
 | **Cristian Martí**
 | Founder at [Methinks](http://methinks.es/)
-| Former CEO at [Coordina](http://coordina.com/), now a TomTom company
+| Former CEO at Coordina, now a TomTom company
 | Linkedin: <http://www.linkedin.com/in/cristianmarti/>
 
 (from academia)
