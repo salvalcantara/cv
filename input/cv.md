@@ -168,7 +168,7 @@ profile:
     [Coursera](https://www.coursera.org/) \
 
 04/2018
-:   [Machine Learning cours](https://www.coursera.org/learn/machine-learning) \
+:   [Machine Learning course](https://www.coursera.org/learn/machine-learning) \
     [Coursera](https://www.coursera.org/), Stanford University \
 
 08/2017
