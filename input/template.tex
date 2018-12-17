@@ -1,0 +1,45 @@
+\documentclass[a4paper]{article}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{ae}
+\usepackage[T1]{fontenc}
+\usepackage{CV}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{graphicx}
+\usepackage{titling}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage{academicons}
+
+\def\tightlist{}
+\let\description\CV
+\let\enddescription\endCV
+\setlength{\parindent}{0pt} 
+\setlength{\parskip}{1em}
+\setlength{\droptitle}{-100pt}
+
+\title{\Large{\textsc{$name$}}\vspace{-.3cm}}
+
+\author{
+	\includegraphics[width=.25\textwidth]{input/$photo$}\vspace{.3cm} \\
+	$postcode$ \textbar{} $city$ \textbar{} $country$ \\
+	$phone$ \textbar{} $email$ \\
+	\large{$for(profile)$\href{$profile.url$}{$profile.icon$}$sep$ \textbar{} $endfor$}
+}
+
+\date{} % Leave blank to remove the date
+
+\begin{document}
+\maketitle
+\vspace{-1cm}
+
+$body$
+
+\begin{flushright}
+\vspace{2\baselineskip}
+\noindent \today
+\end{flushright}
+\end{document}
+
