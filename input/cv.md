@@ -19,7 +19,6 @@ profile:
 2005–2011
 
 :   MSc, PhD in *Industrial Informatics*—*Automatic Control* \
-    (Computer Science/Eng. program) \
     Dept. of Telecommunications and Systems Engineering \
     [Universitat Autònoma de Barcelona](http://www.uab.es)
 
