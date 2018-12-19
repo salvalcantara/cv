@@ -63,7 +63,7 @@ profile:
 :   Full Stack Engineer \
     [Talaia](https://talaia.io/) \
     
-:   I join Talaia (now [Auvik](https://www.auvik.com/media-room/press-releases/auvik-acquires-network-traffic-analytics-company-talaia/)) to help migrate from a coupled monolith to a (micro-)service/distributed architecture. Overall, I work on different fronts, playing a traversal role within the company, where I am a shareholder since late 2017.\
+:   I join Talaia (later [Auvik](https://www.auvik.com/media-room/press-releases/auvik-acquires-network-traffic-analytics-company-talaia/)) to help migrate from a coupled monolith to a (micro-)service/distributed architecture. Overall, I work on different fronts, playing a traversal role within the company, where I am a shareholder since late 2017.\
 
     Frontend:
 
@@ -221,7 +221,7 @@ These persons are familiar with my professional qualifications and my character:
 
 | **Cristian Martí**
 | Founder at [Methinks](http://methinks.es/)
-| Former CEO at Coordina, now a TomTom company
+| Former CEO at Coordina, acquired by TomTom
 | Linkedin: <http://www.linkedin.com/in/cristianmarti/>
 
 (from academia)
