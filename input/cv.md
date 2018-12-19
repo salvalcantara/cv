@@ -84,7 +84,7 @@ profile:
 
     - Ansible, Fabric, Vagrant, Docker, GCP (Kubernetes), Gitlab CI, Fluentd, Collectd, Grafana
     - Ocassionally, conduct onpremise installations and provide support/training to our customers
-    - Write and review deliverables for different projects (project funding
+    - Write and review deliverables for different projects (project funding)
 
 08/2014--09/2015
 
